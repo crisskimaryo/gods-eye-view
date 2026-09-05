@@ -1,6 +1,5 @@
 node_modules
 dist
-.env
 *.log
 screenshots/
 qa-shots/
@@ -12,3 +11,4 @@ output/
 3d-models/
 pinokio/ENVIRONMENT
 pinokio/.installed
+config.bat
